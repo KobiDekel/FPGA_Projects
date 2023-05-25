@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at draw_strings.sv(192): object "draw_head" differs only in case from object "DRAW_HEAD" in the same scope File: N:/dev/Technion/DigitalProduct/Spring-2019/KTetris/rtl/draw_strings.sv Line: 192
+Info (10281): Verilog HDL Declaration information at draw_strings.sv(229): object "draw_game_over" differs only in case from object "DRAW_GAME_OVER" in the same scope File: N:/dev/Technion/DigitalProduct/Spring-2019/KTetris/rtl/draw_strings.sv Line: 229
